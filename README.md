@@ -12,7 +12,7 @@ This app helps to assign keyboard shortcuts to extra mouse buttons.
  - **For Ubuntu**, just extract & double click Mouse_Mapper file & it will start running.
 
 # HOW TO USE
-- [Watch Demo]
+- ![Watch Demo](https://youtu.be/LXb3EKWsInQ)
 
 **Application doesn't guarantees all keys working !**
 
