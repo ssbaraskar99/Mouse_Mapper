@@ -23,8 +23,7 @@
 
 # **CREDITS**
 Beautiful UI was possible because of these 2 fonts :
-Thanks to 
-- Font used : [Inter](https://github.com/rsms/inter) [Merriweather](https://github.com/SorkinType/Merriweather)
+Thanks to: [Inter](https://github.com/rsms/inter) [Merriweather](https://github.com/SorkinType/Merriweather)
 
 # **LICENSE**
 - **Anyone can use this app, for personal use for free.**
