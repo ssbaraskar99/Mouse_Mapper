@@ -2,7 +2,7 @@
   This app helps to assign keyboard shortcuts to extra mouse buttons.
 
 # **DESCRIPTION**
-[img]https://i.imgur.com/YHrYyyB.png[/img]
+[App Image](https://i.imgur.com/YHrYyyB.png)
 
   You can assign keyboard shortcuts, texts to your extra mouse buttons. Designed especially for Ubuntu(Linux) operating system.
   You can assign text to be typed : when a mouse button is clicked.
