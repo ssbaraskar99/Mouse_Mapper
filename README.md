@@ -19,7 +19,7 @@
 # **ABOUT**
 - App & App Icon Made By : [ssbaraskar99](https://github.com/ssbaraskar99/)
 - Mouse Mapper v 1.0
-- App doen't connects to internet, nor collects any data other than Mouse Button & Keyboard shortcut mappings which are stored locally. _(these mappings are used by app to perform a keyboard shortcut, when a assigned mouse button is clicked)_.
+- App doesn't connects to internet at all neither uploads or downloads anything, nor collects any data other than Mouse Button & Keyboard shortcut mappings which are stored locally. _(these mappings are used by app to perform a keyboard shortcut, when a assigned mouse button is clicked)_.
 
 # **CREDITS**
 Beautiful UI was possible because of these 2 fonts :
