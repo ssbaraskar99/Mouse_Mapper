@@ -6,8 +6,16 @@
   You can assign text to be typed : when a mouse button is clicked.
   
   _Left Right & Middle mouse buttons cannot be re-assigned !_
-  
- # HOW TO INSTALL
+
+# SCREENSHOTS
+![1](https://github.com/ssbaraskar99/Mouse_Mapper/blob/main/Screenshots/1.png?raw=true)
+![2](https://github.com/ssbaraskar99/Mouse_Mapper/blob/main/Screenshots/2.png?raw=true)
+![3](https://github.com/ssbaraskar99/Mouse_Mapper/blob/main/Screenshots/3.png?raw=true)
+![4](https://github.com/ssbaraskar99/Mouse_Mapper/blob/main/Screenshots/4.png?raw=true)
+![5](https://github.com/ssbaraskar99/Mouse_Mapper/blob/main/Screenshots/5.png?raw=true)
+
+# HOW TO INSTALL
+
  - **For Windows** _coming soon.._
  - **For Ubuntu**, just extract & double click Mouse_Mapper file & it will start running.
 
